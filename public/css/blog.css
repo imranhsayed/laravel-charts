@@ -1,0 +1,25 @@
+.create-blog-wrapper{
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+.delete-form{
+	margin-top: 16px;
+}
+
+.bg-light {
+	max-width: 100% !important;
+}
+
+.post-edit-btn {
+	float: left;
+}
+
+.delete-form {
+	float: right;
+}
+
+.show-bloas-container {
+	max-width: 600px;
+	margin-left: 30px;
+}
