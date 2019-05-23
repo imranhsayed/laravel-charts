@@ -10,6 +10,7 @@
 3. `npm install`
 4. `composer install`
 5. Rename `.env.example` file to `.env`
+5. Add your database settings to `.env` file
 6. Generate a key by running `php artisan key:generate`
 7. `php artisan serve`
 8. Now you can see your project at `http://127.0.0.1:8000`
