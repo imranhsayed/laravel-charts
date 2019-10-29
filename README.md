@@ -1,6 +1,10 @@
 # Laravel Blogs and Charts
 :bar_chart: A demo for laraver Blogs and Charts
 
+******* PLEASE STAR MY REPO TO SUPPORT ME 🙏 ******
+
+Please follow me 🙏 on [twitter](https://twitter.com/imranhsayed) and github
+
 ![](charts.png)
 
 # Installation :wrench:
