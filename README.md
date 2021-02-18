@@ -7,7 +7,7 @@ Please follow me 🙏 on [twitter](https://twitter.com/imranhsayed) and github
 
 ![](charts.png)
 
-# Installation :wrench:
+# Installation: :wrench:
 
 1. `git clone https://github.com/imranhsayed/laravel-charts`
 2. `cd laravel-charts`
